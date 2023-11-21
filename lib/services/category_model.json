@@ -1,19 +1,24 @@
 {
     "categories": [
         {
-            "name": "Women Dress",
+            "name": "Women Clothing",
             "subcategory": [
-                "Wedding & Event",
-                "Tops & Sets",
+                "Women Dresses",
+                "Girls Dresses",
+                "Girl Watches",
+                "Wedding & Events",
+                "Top & Sets",
                 "Watches"
             ]
         },
         {
-            "name": "Men Clothing & Fashion",
+            "name": "Men Clothing Fashion",
             "subcategory": [
+                "Boy Glasses",
                 "Outwear & Jackets",
                 "Formal Dress",
-                "Accessories"
+                "Accessories",
+                "TShirts"
             ]
         },
         {
@@ -21,7 +26,7 @@
             "subcategory": [
                 "Laptop",
                 "Gaming PC",
-                "Official Equipment"
+                "Official equipment"
             ]
         },
         {
@@ -36,7 +41,7 @@
             "subcategory": [
                 "Shoes & Bags",
                 "Baby Clothing",
-                "Girls Toys"
+                "Girl Toys"
             ]
         },
         {
@@ -52,24 +57,37 @@
             "subcategory": [
                 "Necklace",
                 "Gold",
-                "Earing"
+                "Earrings"
             ]
         },
         {
-            "name": "Cellphone & Tab",
+            "name": "Cell Phones",
             "subcategory": [
                 "Smartphone",
                 "Tablets",
-                "Accessories"
+                "Accessories",
+                "Mobile Phones"
             ]
         },
         {
             "name": "Furniture",
             "subcategory": [
                 "Sofa",
-                "Bed",
-                "Home Textile"
+                "Beds",
+                "Home Textiles"
+            ]
+        },
+        {
+            "name": "Deals & More",
+            "subcategory": [
+                "Today's Deal",
+                "Flash Sale",
+                "Top Sellers",
+                "Brand",
+                "New Arrivals"
+
             ]
         }
     ]
+
 }
